@@ -19,7 +19,7 @@ To install the Egg Timer app, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/egg-timer-app.git
+   git clone https://github.com/myselfshivams/EggTimer.git
 
 2. Open the project in Xcode.
 3. Build and run the app on your iOS device or simulator.
